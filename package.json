@@ -1,0 +1,23 @@
+{
+  "name": "prueballave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamii02/Prueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamii02/Prueba/issues"
+  },
+  "homepage": "https://github.com/kamii02/Prueba#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
